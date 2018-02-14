@@ -1,0 +1,23 @@
+{
+  "name": "xhr-project-demo-fetch",
+  "version": "1.0.0",
+  "description": "* **Track:** _Especialización_\r * **Curso:** _CONSTRUYE UNA SINGLE PAGE APP (SPA) MULTI-USUARIO CONSUMIENDO DATA REMOTA_\r * **Unidad:** _¿QUÉ SIGNIFICA TRAER DATOS DE UN SERVIDOR ASÍNCRONAMENTE?_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalyOC/esp-fronted-xhr-project-demo-fetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalyOC/esp-fronted-xhr-project-demo-fetch/issues"
+  },
+  "homepage": "https://github.com/NatalyOC/esp-fronted-xhr-project-demo-fetch#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
